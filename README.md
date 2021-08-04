@@ -68,4 +68,8 @@ Select Your File
 
 Run the Program
 
+## Contribution
+If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
+## License
+The code in this project is licensed under MIT license.
